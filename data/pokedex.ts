@@ -4,11 +4,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Bulbasaur",
 		types: ["Steel", "Poison"],
 		genderRatio: {M: 0.875, F: 0.125},
-<<<<<<< HEAD
 		baseStats: {hp: 55, atk: 49, def: 49, spa: 85, spd: 65, spe: 45},
-=======
-		baseStats: {hp: 45, atk: 49, def: 49, spa: 65, spd: 65, spe: 45},
->>>>>>> 0830e88dcc10f1566bb841d7394079984d69b682
 		abilities: {0: "Levitate", H: "Chlorophyll"},
 		heightm: 0.7,
 		weightkg: 6.9,
